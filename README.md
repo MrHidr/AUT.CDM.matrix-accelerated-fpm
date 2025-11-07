@@ -1,4 +1,4 @@
-# A Survey of Matrix Monitoring Methods for Accelerating Frequent Pattern Mining Algorithms
+# This repo is for CS Master course homeworks.
 
 **Course:** Computational Data Mining (CDM)  
 **Student:** Mahdi Heydari 
